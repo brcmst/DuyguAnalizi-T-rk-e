@@ -26,10 +26,3 @@ if __name__ == "__main__":
     print("Duygu Etiketi:", duygu)
 
 
-#metin hoca çok iyidir
-# dinlediğiniz için teşekkür ederim
-
-    
-# kitap sıkıcıydı, ilgimi çekmedi
-# konuyla ilgili fikrim yok
-    
