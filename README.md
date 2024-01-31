@@ -1,10 +1,14 @@
-duygu-analizi.py | Türkçe Duygu Analizi (BERT Tabanlı)
+1- duygu-analizi.py | Türkçe Duygu Analizi (BERT Tabanlı)
 
 Bu proje, Türkçe metinlerin duygusal tonunu analiz etmek için BERT tabanlı bir model kullanarak duygu analizi gerçekleştirmektedir. Hugging Face'in Transformers kütüphanesinde bulunan önceden eğitilmiş bir Türkçe BERT modeli (dbmdz/bert-base-turkish-cased) kullanılarak metinlere pozitif, negatif veya nötr etiketler atanmaktadır.
 
 
-restaurantReviewsNLP.ipynb | Restaurant Reviews Sentiment Analysis
-Bu proje, bir restoran yorum veri seti üzerinde duygu analizi yapmayı amaçlamaktadır. Veri seti, kullanıcıların restoran deneyimleri hakkında yazdıkları yorumları içermektedir. Analiz, yorumları temizleme, özellik çıkarma ve Naive Bayes sınıflandırma modeli kullanma adımlarını içermektedir.
+
+2- restaurantReviewsNLP.ipynb | Restaurant Reviews Sentiment Analysis
+
+Bu proje, bir restoran yorum veri seti üzerinde duygu analizi yapmayı amaçlamaktadır. 
+Veri seti, kullanıcıların restoran deneyimleri hakkında yazdıkları yorumları içermektedir. 
+Analiz, yorumları temizleme, özellik çıkarma ve Naive Bayes sınıflandırma modeli kullanma adımlarını içermektedir.
 
 Veri Seti
 Proje, "Restaurant_Reviews.tsv" adlı bir tsv dosyasından veri setini kullanmaktadır. Veri seti, yorumlar ve kullanıcının beğeni durumlarını içermektedir.
